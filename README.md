@@ -4,7 +4,7 @@
 
 This is a light theme for [dat.gui](http://workshop.chromeexperiments.com/examples/gui/#1--Basic-Usage), that fits in a bit better with lighter designs.
 
-You can see a demo of it in action on the [Matter.js](http://localhost:9000/matter-js/) page.
+You can see a demo of it in action on the [Matter.js](http://brm.io/matter-js/) page.
 
 ## Usage ##
 
